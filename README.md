@@ -29,6 +29,8 @@ server code, we're using a threaded socket server based on Python's
 ThreadedSocketServer, but you could use an asynchronous or
 forking server if you prefer.
 
+This version replaces the version at SF: [https://sourceforge.net/projects/pamredirector/]
+
 
 Protocol
 --------
